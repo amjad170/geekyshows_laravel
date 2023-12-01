@@ -1,0 +1,4 @@
+<h1>Contact page(included)</h1>
+<h4>Name = {{ $name }}</h4> {{-- This is parent view's value --}}
+<h4>ID = {{ $id }}</h4> {{-- This is child/own view's value --}}
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Amet sapiente eligendi impedit explicabo? Vitae obcaecati illo sint similique voluptatem accusantium corporis debitis consequuntur itaque totam optio libero odio asperiores voluptate, illum facilis non error dolor adipisci quas, minima quis, expedita animi quasi! Suscipit ipsum voluptas, culpa accusantium at repellendus perspiciatis repellat maiores ab reiciendis, nesciunt nam unde explicabo sequi excepturi odit? Minus quod obcaecati reiciendis alias, iusto doloremque ducimus ratione, delectus dicta ipsa voluptatem et! In quas dolor reiciendis natus cumque aspernatur quos magnam, eum excepturi quod? Quaerat nobis quae dignissimos beatae libero, sint maxime nemo, similique quas ratione culpa?</p>

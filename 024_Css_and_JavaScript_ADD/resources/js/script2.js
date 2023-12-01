@@ -1,0 +1,1 @@
+alert("Compile external js")
